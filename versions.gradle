@@ -1,5 +1,5 @@
 ext.versionNumbers = [
-        gradle      : '3.4.1',
+        gradle      : '4.2.2',
         jfrog       : '4.7.5',
         bintray     : '1.8.4',
         androidMaven: '2.1',
